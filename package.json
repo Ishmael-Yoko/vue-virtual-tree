@@ -1,9 +1,9 @@
 {
-  "name": "vue-virtual-tree",
-  "version": "0.1.0",
+  "name": "gwz-vue-virtual-tree",
+  "version": "0.0.2",
   "author": "Ishmael",
-  "main": "dist/virtialtree.umd.min.js",
-  "private": true,
+  "main": "dist/virtualtree.umd.min.js",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
